@@ -1,0 +1,40 @@
+﻿body {
+    font-family: monospace;
+    font-size: 25px;
+    background: black;
+    color: lightcyan;
+}
+
+h1 {
+    text-align: center;
+    font-size: 200%;
+}
+
+div#links {
+    text-align: center;
+    font-size: 120%;
+    line-height: 140%;
+    margin: 1em auto 1.5em auto;
+}
+
+a {
+    color: #F3F; /* light magenta */
+    text-decoration: none;
+}
+
+a:hover { color: #FCF; }
+
+p {
+    text-align: justify;
+    margin: 1em 4em;
+}
+
+p#bottom {
+    text-align: center;
+    margin-top: 2.5em;
+}
+
+kbd {
+    border: 1px solid;
+    padding: 0 0.5em;
+}

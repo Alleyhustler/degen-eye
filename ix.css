@@ -1,0 +1,40 @@
+﻿body {
+    background: black;
+    color: yellow;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+table {
+    position: absolute;
+    top: 0;
+    left: 25%;
+    width: 50%;
+}
+
+td { text-align: center; }
+
+h2 {
+    font: bold 250% monospace;
+    color: lime;
+    margin-top: 3.5em;
+}
+
+input {
+    font: bold 140% monospace;
+    letter-spacing: 0.15em;
+    background: #022;
+    color:  orange;
+    cursor: pointer;
+    margin-top: 1em;
+    padding: 0.3em 2.5em;
+    border: 2px outset yellow;
+}
+
+input:hover { color: yellow; }
+
+noscript {
+    color: red;
+    font-size: 150%;
+    font-weight: bold;
+}
